@@ -11,7 +11,7 @@ For code related questions, please post to the [issues tab](https://github.com/c
  Level 0 | [The Basic Board](#level-0-the-basic-board) |
  Level 1 | [Single Drive Motorized Board](#level-1-the-basic-motorized-board) |
  Level 2 | [Hub Drive Motorized Board](#level-2-hub-driven-motorized-board) |
- Level 3 | [Advanced Motorized Board](# level-3-advanced-motorized-board)|
+ Level 3 | [Advanced Motorized Board](#level-3-advanced-motorized-board)|
  Level 4| [Autonomous Motorized Board](#level-4-autonomous-motorized-board) |
 
 # Level 0: The Basic Board
