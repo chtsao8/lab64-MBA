@@ -17,12 +17,35 @@ For code related questions, please post to the [issues tab](https://github.com/c
 # Level 0: The Basic Board
 Before diving into building your own e-board, it is vital that you understand the workings of a normal skateboard. Simply put, a skateboard is a plank of wood with 4 wheels attached to it that a person rides using their feet to guide and accelerate.
 
-Skateboards consist of three primary parts: the deck, the trucks, and the wheels.
+More accurately: Skateboards consist of three primary parts: the deck, the trucks, and the wheels.
 ![A labeled skateboard](http://1.bp.blogspot.com/-JAhh_Z9r_fo/UklTPO3MlrI/AAAAAAAALNc/tp_7ca2i6_k/s640/img353.jpg)
 
 ## The Deck
+Decks are the backbone of the board. Standard skateboard decks are between 28-33 inches. You may have heard of other types of boards too - Penny-boards are between 20-23 inches, Nickel-boards are around 27 inches, and longboards are usually over 36 inches up to 60 inches long. Longboards are typically used for higher speed and cruising, so they're the most reasonable choice for building your first motorized board. 
+
+For the rest of this section, I'll mostly focus on longboards. There are 3 things you want to look out for when buying a deck:
+1. **Wheelbase** - The wheelbase is the distance between the two inner truck mounting holes of a board (we'll talk more about this later). If you're building a longboard, you won't have to worry about the wheelbase, but for shorter boards, make sure you have at least 17.7 inches (450mm) of wheelbase - 4.7 inches for the motor, 2 inches forwire routing, and 11 inches for the batteries. 
+2. **Deck Flex** - Pretty self explanatory. If you're planning on building a motorized board, I'd highly recommend you get a stiff deck since flexible decks can cause the electronics to hit the ground while riding.
+3. **Deck Shape** - There are a lot of deck shapes that you should read up about on this website: [Choosing a Longboard Deck](https://www.warehouseskateboards.com/help/Longboard-Skateboard-Decks-Buying-Guide)
+
+The deck shape is part preference, part practical. For the purposes of building a motorized board, I'd recommend getting a deck with a progressive or tub concave curve and minimal rocker curve. You want to make sure the bottom of the board isn't too curvy, or the electrical components (especially the battery) won't fit as well and could potentially get scratched or damaged.
+
+Here's some pretty solid decks you can get online:
+
+[Earthwing Team 37](https://www.earthwingboards.com/product-page/team-37)
+
+[LandyYachtz Cannon Arrow Lighthouse](https://www.muirskate.com/longboard/decks/72888/2018-landyachtz-canyon-arrow-lighthouse-longboard-skateboard-deck-w-grip)
+
+[Cantellated Tesseract](https://www.amazon.com/Loaded-Boards-Cantellated-Tesseract-Skateboard/dp/B075NNCD2X/ref=as_li_ss_tl?ie=UTF8&qid=1530370286&sr=8-1&keywords=cantellated+tesseract&dpID=514TN0u%252Bs4L&preST=_SY300_QL70_&dpSrc=srch&linkCode=sl1&tag=ddventures08-20&linkId=5564b9d6b2f3b08582bd1e785c37dc0c) (expensive!)
+
+Otherwise, we can go to the skate shop to grab a longboard (or other-board) deck.
+
+## The Trucks
+
 
 # Level 1: The Basic Motorized Board
+
+
 
 # Level 2: Hub-driven Motorized Board
 
