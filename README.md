@@ -101,15 +101,19 @@ Like the other parts, wheel choice is personal preference. We'll have multiple s
 
 # Level 1: The Basic Motorized Board
 
+<sub> ***Note:*** this section heavily references [this article](https://www.electric-skateboard.builders/t/beginners-guide-to-building-your-own-electric-skateboard-drivetrain/53) by user **onloop**. Big thanks to him for the knowledge.
+
 Now that we have the basic board, it's time to motorize it! In order to do so, we need to build the **drive train**, which consists of the following parts:
 
-1.
-2.
-3. etc
+1. The Motor Mounting Plate/Truck Clamping Parts
+2. The Wheel Pulley
+3. The Motor Pulley
+4. The Drive Belt
 
 This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
 To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this.
 
+![want this](https://i.redd.it/3td44p8qo3w11.jpg)
 
 # Level 2: Hub-driven Motorized Board
 
