@@ -34,7 +34,7 @@ For the rest of this guide, I'll mostly focus on longboards. There are 3 things 
 
 The deck shape is part preference, part practical. For the purposes of building a motorized board, I'd recommend getting a deck with a progressive or tub concave curve and minimal rocker curve. You want to make sure the bottom of the board isn't too curvy, or the electrical components (especially the battery) won't fit as well and could potentially get scratched or damaged.
 
-Additionally, you have the option of putting grip tape on the top of your deck. The increase in friction between the board and your feet helps minimize the chances of you slipping off of your longboard and eating concrete.
+Additionally, you have the option of putting **grip tape** on the top of your deck. The increase in friction between the board and your feet helps minimize the chances of you slipping off of your longboard and eating concrete.
 
 **Here's an example of a good deck:**
 <p align="left">
