@@ -34,6 +34,8 @@ For the rest of this guide, I'll mostly focus on longboards. There are 3 things 
 
 The deck shape is part preference, part practical. For the purposes of building a motorized board, I'd recommend getting a deck with a progressive or tub concave curve and minimal rocker curve. You want to make sure the bottom of the board isn't too curvy, or the electrical components (especially the battery) won't fit as well and could potentially get scratched or damaged.
 
+Additionally, you have the option of putting grip tape on the top of your deck. The increase in friction between the board and your feet helps minimize the chances of you slipping off of your longboard and eating concrete.
+
 **Here's an example of a good deck:**
 <p align="left">
   <img width="300" height="330" src="https://images.salsify.com/image/upload/s--nEzUVStV--/c_pad,b_white,w_500,h_500/rgzvr4x0k5qznuqn6pqd.jpg">
@@ -55,7 +57,7 @@ As seen in the picture at the top, trucks are the parts of the board that connec
 
 ![image](https://www.warehouseskateboards.com/images/size-trucks.jpg)
 
-The bottom part of the truck is called the baseplate, and attaches directly to the deck. Above it is the (T-shaped) hanger, which the axle runs through. Between the baseplate and hanger are bushing that cushion the turning of the skateboard. All of these parts are in place by the kingpin nut. Finally, the pivot (not shown, behind hanger on baseplate) directs the turning of the hanger.
+The bottom part of the truck is called the baseplate, and attaches directly to the deck. Above it is the (T-shaped) hanger, which the axle runs through. Between the baseplate and hanger, there are polyurethane bushings that cushion the turning of the skateboard. All of these parts are in place by the kingpin nut. Finally, the pivot (not shown, behind hanger on baseplate) directs the turning of the hanger.
 
 There are two types of skateboard trucks - the reverse kingpin, and regular kingpin trucks. Longboards typically use reverse kingpin trucks for more stability and control, so I'd personally get those, but the choice is up to you. 
 
