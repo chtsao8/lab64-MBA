@@ -39,7 +39,7 @@ The deck shape is part preference, part practical. For the purposes of building 
   <img width="300" height="330" src="https://images.salsify.com/image/upload/s--nEzUVStV--/c_pad,b_white,w_500,h_500/rgzvr4x0k5qznuqn6pqd.jpg">
 </p>
 
-Here's some pretty solid decks you can get online:
+Here's some pretty solid decks you can get online for around $100-200:
 
 [Earthwing Team 37](https://www.earthwingboards.com/product-page/team-37)
 
@@ -55,14 +55,58 @@ As seen in the picture at the top, trucks are the parts of the board that connec
 
 ![image](https://www.warehouseskateboards.com/images/size-trucks.jpg)
 
-The top part of the truck is called the baseplate, and attaches directly to the deck. Beneath it is the hanger, which the axle runs through. 
+The bottom part of the truck is called the baseplate, and attaches directly to the deck. Above it is the (T-shaped) hanger, which the axle runs through. Between the baseplate and hanger are bushing that cushion the turning of the skateboard. All of these parts are in place by the kingpin nut. Finally, the pivot (not shown, behind hanger on baseplate) directs the turning of the hanger.
+
+There are two types of skateboard trucks - the reverse kingpin, and regular kingpin trucks. Longboards typically use reverse kingpin trucks for more stability and control, so I'd personally get those, but the choice is up to you. 
+
+![](https://www.warehouseskateboards.com/images/help/longboard-trucks-reverse-kingpin.jpg) ![](https://www.warehouseskateboards.com/images/help/longboard-trucks-traditional-kingpin.jpg)
+
+Standard longboard trucks range from 150mm to 180mm, but for the purposes of a motorized board 218mm trucks are also an option. The 180mm trucks will alow for **easier handling and speed**, but the 218mm trucks are **more stable and allow more space for motor and electrical components at the cost of handling**. I'm leaning towards the 218mm trucks, but again, it's your decision.
+
+You can get skateboard trucks online at around $30 at these links:
+
+[Zumiez](https://www.zumiez.com/skate/trucks/longboard-trucks.html)
+
+[MuirSkate](https://www.muirskate.com/longboard/trucks/all)
+
+[Amazon](https://www.amazon.com/s?k=longboard+trucks&ref=nb_sb_noss_2)
+
+Or maybe we could go to the skate shop.
 
 ## The Wheels
 
-Note: if you're interested in how the parts of the deck, wheels and shaft are made, or even dedicated to _building a board from scratch_, here's a website link detailing [how the parts of skateboards are made](http://www.madehow.com/Volume-6/Skateboard.html)
+Finally the wheels. This is potentially the most flexible part of the board build. They're typically made of polurethane and have tons of sizes and styles. Around 65-75mm diameter is the most common for longboards, but for electric skateboards, we're going to want to have 80-97mm wheels for stability (and so you don't eat concrete when hitting things on the road). Larger wheels go faster at the expense of torque and acceleration, and vice versa, but we'll go into depth about this in **Level 1**.
+
+Wheels also are measured by durometer ratings; longboards are on the softer side (75-85aa) for smoother rides compared to smaller skateboards (90-100aa). 
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/71NOdUoz3lL._AC_SX679_.jpg" alt="good wheels" img width="300" height="300">
+
+[Cal 7 Wheels](https://www.amazon.com/Cal-Cruiser-Skateboard-Longboard-Flywheel/dp/B0752ZQPHJ) - 
+Here are some really nice and cheap ($30) 97mm longboard wheels. Notice the small wheel shaped metal objects in the image above. Those are wheel bearings that allow the wheel to spin on the axle of the trucks. There's usually two in each of the four wheels.
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/71fSew5bb0L._AC_SX679_.jpg" alt="all terrain wheels" img width="300" height="300">
+
+[All Terrain Wheels](https://www.amazon.com/MBS-All-Terrain-Longboard-Wheels-Orange/dp/B074DG2K97/ref=asc_df_B074DG2K97/?tag=hyprod-20&linkCode=df0&hvadid=312154671095&hvpos=1o5&hvnetw=g&hvrand=11996070871666925470&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031970&hvtargid=aud-829758849484:pla-521024198533&psc=1) - 
+Alternatively, you can get _all terrain_ longboard wheels. If you're planning on riding through dirt and sand (not sure why you would though) or want a potentially smoother ride, consider using these.
+
+Like the other parts, wheel choice is personal preference. We'll have multiple styles of wheels (street, all-terrain, diff. sizes) available in lab64 for you to test out before you decide on a purchase.
+\
+
+***And that's all for building your very own (long/other)board!*** When you're comfortable with your ride, you can move on to **Level 1** and motorize your board.
+\
+\
+<sub> ***Note:*** if you're interested in how the parts of the deck, wheels and shaft are made, or even dedicated to _building a board from scratch_, here's a website link detailing [how the parts of skateboards are made](http://www.madehow.com/Volume-6/Skateboard.html)
 
 # Level 1: The Basic Motorized Board
 
+Now that we have the basic board, it's time to motorize it! In order to do so, we need to build the **drive train**, which consists of the following parts:
+
+1.
+2.
+3. etc
+
+This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
+To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this.
 
 
 # Level 2: Hub-driven Motorized Board
