@@ -32,7 +32,7 @@ For the rest of this guide, I'll mostly focus on longboards. There are 3 things 
 2. **Deck Flex** - Pretty self explanatory. If you're planning on building a motorized board, I'd highly recommend you get a stiff deck since flexible decks can cause the electronics to hit the ground while riding.
 3. **Deck Shape** - There are a lot of deck shapes that you should read up about on this website: [Choosing a Longboard Deck](https://www.warehouseskateboards.com/help/Longboard-Skateboard-Decks-Buying-Guide)
 
-The deck shape is part preference, part practical. For the purposes of building a motorized board, I'd recommend getting a deck with a progressive or tub concave curve and minimal rocker curve. You want to make sure the bottom of the board isn't too curvy, or the electrical components (especially the battery) won't fit as well and could potentially get scratched or damaged.
+The deck shape is part preference, part practical. For the purposes of building a motorized board, I'd recommend getting a deck with a progressive or tub concave curve and minimal rocker curve. You want to make sure the bottom of the board isn't too curvy, or the electrical components (especially the battery) won't sit flush with the deck and could potentially get scratched or damaged if they're not secure.
 
 Additionally, you have the option of putting **grip tape** on the top of your deck. The increase in friction between the board and your feet helps minimize the chances of you slipping off of your longboard and eating concrete.
 
@@ -110,7 +110,30 @@ Now that we have the basic board, it's time to motorize it! In order to do so, w
 3. The Motor Pulley
 4. The Drive Belt
 
-This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
+All seen here:
+![drive train parts](drive_train_parts.jpg)
+
+And combined here:
+
+<img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/3X/1/0/108e0e3a251866778b102db98139fc0e94ad714b_2_1380x776.jpg" img width="690" height="388">
+
+This section will be focused on the math and engineering behind making the **drive train** for the motorized board. We'll start with the motor mounting plate, which looks like this:
+
+<img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/2X/7/7b546f571d194caeee4c9e3f940e9dfa186bb9ce_2_1250x1000.JPG" alt="motor mount" img width="400" height="300">
+
+The motor mount is the backbone of the electronic components. The disjointed right side of the motor mount is where you attach the mount to the axles of the trucks. They're secured tight with screws. The left side is where the motor is secured.
+All the motor mounting plates I've seen have been made out of aluminum, since it's light and strong. You can buy a good one here for cheap:
+
+[HobbyKing Motor Mount](https://hobbyking.com/en_us/motor-mount-5.html)
+
+or machine one yourself. Try creating a better design!
+
+Next is the wheel pulley. This is the gear-shaped object that secured by screws to the spokes of the board's wheels.
+
+![motor](https://sep.yimg.com/ay/yhst-62196343123315/tacon-big-foot-160-brushless-out-runner-motor-for-airplane-245kv-8.gif)
+
+[remote](https://www.aliexpress.com/item/32968018318.html?spm=a2g0o.detail.1000014.3.73881a5frJ7NTL&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.146400.0&scm_id=1007.13338.146400.0&scm-url=1007.13338.146400.0&pvid=2458bff6-fce8-4dfa-8427-6e4a5219a875)
+
 To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this.
 
 ![want this](https://i.redd.it/3td44p8qo3w11.jpg)
