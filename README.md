@@ -1,6 +1,6 @@
 # lab64 Motorized Board Association
 
-Welcome! If you're here, you're probably interested in building your own electric skateboard. Whether you're a seasoned maker or a newbie, we'll help guide your way to building your very own e-board.
+Welcome! If you're here, you're probably interested in building your own electric skateboard. Whether you're a seasoned maker or a newbie, we'll help guide your way to building your very own motorized board.
 
 Feedback is always appreciated! Please send any questions, comments, or suggestions to <chtsao@stanford.edu>.
 
@@ -19,7 +19,7 @@ For code related questions, please post to the [issues tab](https://github.com/c
  Level 4| [Autonomous Motorized Board](#level-4-autonomous-motorized-board) |
 
 # Level 0: The Basic Board
-Before diving into building your own e-board, it is vital that you understand the workings of a normal skateboard. Simply put, a skateboard is a plank of wood with 4 wheels attached to it that a person rides using their feet to guide and accelerate.
+Before diving into building your own motorized board, it is vital that you understand the workings of a normal skateboard. Simply put, a skateboard is a plank of wood with 4 wheels attached to it that a person rides using their feet to guide and accelerate.
 
 More accurately: Skateboards consist of three primary parts: the deck, the trucks, and the wheels.
 ![A labeled skateboard](http://1.bp.blogspot.com/-JAhh_Z9r_fo/UklTPO3MlrI/AAAAAAAALNc/tp_7ca2i6_k/s640/img353.jpg)
@@ -103,9 +103,15 @@ Like the other parts, wheel choice is personal preference. We'll have multiple s
 
 <sub> ***Note:*** this section heavily references [this article](https://www.electric-skateboard.builders/t/beginners-guide-to-building-your-own-electric-skateboard-drivetrain/53) by user **onloop**. Big thanks to him for the knowledge.
 
-Now that we have the basic board, it's time to motorize it! In order to do so, we need to build the **drive train**, which consists of the following parts:
+Now that we have the basic board, it's time to motorize it! Turning your board into a motorized board requires three big components:
+1. The Drive Train
+2. The ESC (Electric Speed Controller) / Remote
+3. The Batteries
 
-1. The Motor Mounting Plate/Truck Clamping Parts
+## The Drive Train
+Motorizing the wheels requires that we build the **drive train**, which consists of the following parts:
+
+1. The Motor Mounting Plate and Motor
 2. The Wheel Pulley
 3. The Motor Pulley
 4. The Drive Belt
@@ -117,7 +123,10 @@ And combined here:
 
 <img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/3X/1/0/108e0e3a251866778b102db98139fc0e94ad714b_2_1380x776.jpg" img width="690" height="388">
 
-This section will be focused on the math and engineering behind making the **drive train** for the motorized board. We'll start with the motor mounting plate, which looks like this:
+This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
+
+### Motor and Motor Mount
+We'll start with the motor mounting plate, which looks like this:
 
 <img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/2X/7/7b546f571d194caeee4c9e3f940e9dfa186bb9ce_2_1250x1000.JPG" alt="motor mount" img width="400" height="300">
 
@@ -126,15 +135,42 @@ All the motor mounting plates I've seen have been made out of aluminum, since it
 
 [HobbyKing Motor Mount](https://hobbyking.com/en_us/motor-mount-5.html)
 
-or machine one yourself. Try creating a better design!
+or machine one yourself (see [Making Your Own Parts](#making-your-own-parts)). Try creating a better design!
 
-Next is the wheel pulley. This is the gear-shaped object that secured by screws to the spokes of the board's wheels.
+Next up is the motor. You might've seen the terms "brushed" and "brushless" motors around. If you're not concerned with the differences, skip this section, but if you're curious, read on.
+
+**Brushed Motors** have a rotating set of wound wire coils (armature) on their rotor that act as an electromagnet with two poles. Brushed motors utilize a mechanical rotary switch called a _commutator_ which is in direct contact with _brushes_ that provide current from the battery. This commutator reverses current flow twice every cycle so that the electromagnet is pulled and pushed by the magnets on the outside of the rotor (stator). Inertia keeps the rotor moving in its desired direction while this magnetic pushing and pulling occurs. Brushed motors have poor heat dissipation and less rotational efficiency than brushless motors due to the friction between the commutator and brushes, but are cheaper.
+
+**Brushless Motors** kind of flip the components of a brushed motor. By utilizing a permanent magnet as its rotor, and having the wound wire coils on the stator of the motor, this eliminates the need for brushes and a commutator. The wound wire coils (typically 3) are activated one phase after another as directed by an electronic speed controller and signals from a _Hall sensor_ tracking the position of the rotor in order to control the motor's rotation.
+
+Here's an image to help understand Brushed vs Brushless motors:
+![brushed/brushless motor](http://www.thinkrc.com/faq/images/brushed-brushless.jpg)
+
+For the purposes of our motorized board, we'll want to stick to a ***brushless motor*** with a motor kV rating of 245kV, which is pretty standard for motorized boards. The brushless motor will be more reliable due to its frictionless drive.
 
 ![motor](https://sep.yimg.com/ay/yhst-62196343123315/tacon-big-foot-160-brushless-out-runner-motor-for-airplane-245kv-8.gif)
 
-[remote](https://www.aliexpress.com/item/32968018318.html?spm=a2g0o.detail.1000014.3.73881a5frJ7NTL&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.146400.0&scm_id=1007.13338.146400.0&scm-url=1007.13338.146400.0&pvid=2458bff6-fce8-4dfa-8427-6e4a5219a875)
+You can get this motor here for $75: [Brushless 245kV Motor](https://www.hobbypartz.com/96m608-bigfoot160-5335-245kv.html)
+
+### Wheel and Motor Pulleys
+
+Next is the wheel pulley. This is the gear-shaped object that secured by screws to the spokes of the board's wheels.
+
 
 To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this.
+
+### Making your own parts
+
+
+## The ESC/Remote
+50 amps
+
+VESC
+
+[remote](https://www.aliexpress.com/item/32968018318.html?spm=a2g0o.detail.1000014.3.73881a5frJ7NTL&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.146400.0&scm_id=1007.13338.146400.0&scm-url=1007.13338.146400.0&pvid=2458bff6-fce8-4dfa-8427-6e4a5219a875)
+
+
+## The Batteries
 
 ![want this](https://i.redd.it/3td44p8qo3w11.jpg)
 
