@@ -71,6 +71,8 @@ You can get skateboard trucks online at around $30 at these links:
 
 [MuirSkate](https://www.muirskate.com/longboard/trucks/all)
 
+[Caliber Trucks (recommend!)](https://www.amazon.com/gp/product/B00NY3Q5Q8/ref=ppx_yo_dt_b_asin_title_o09__o00_s00?ie=UTF8&psc=1)
+
 [Amazon](https://www.amazon.com/s?k=longboard+trucks&ref=nb_sb_noss_2)
 
 Or maybe we could go to the skate shop.
