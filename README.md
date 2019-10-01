@@ -43,9 +43,9 @@ Additionally, you have the option of putting **grip tape** on the top of your de
 
 Here's some pretty solid decks you can get online for around $100-200:
 
-[Earthwing Team 37](https://www.earthwingboards.com/product-page/team-37)
-
 [LandyYachtz Cannon Arrow Lighthouse](https://www.muirskate.com/longboard/decks/72888/2018-landyachtz-canyon-arrow-lighthouse-longboard-skateboard-deck-w-grip)
+
+[Truncated Tesseract](https://loadedboards.com/collections/longboard-decks-and-completes/products/truncated-tesseract-longboard-skateboard) (expensive!)
 
 [Cantellated Tesseract](https://www.amazon.com/Loaded-Boards-Cantellated-Tesseract-Skateboard/dp/B075NNCD2X/ref=as_li_ss_tl?ie=UTF8&qid=1530370286&sr=8-1&keywords=cantellated+tesseract&dpID=514TN0u%252Bs4L&preST=_SY300_QL70_&dpSrc=srch&linkCode=sl1&tag=ddventures08-20&linkId=5564b9d6b2f3b08582bd1e785c37dc0c) (expensive!)
 
