@@ -110,6 +110,9 @@ Now that we have the basic board, it's time to motorize it! Turning your board i
 2. The ESC (Electric Speed Controller) / Remote
 3. The Batteries
 
+Here's a schematic of all the parts that go into motorizing your board.
+![schematic](https://www.electric-skateboard.builders/uploads/db1493/original/3X/9/7/97991bdeee5662e34fefab783cb00e0242044401.jpg)
+
 ## The Drive Train
 Motorizing the wheels requires that we build the **drive train**, which consists of the following parts:
 
@@ -154,12 +157,17 @@ For the purposes of our motorized board, we'll want to stick to a ***brushless m
 
 You can get this motor here for $75: [Brushless 245kV Motor](https://www.hobbypartz.com/96m608-bigfoot160-5335-245kv.html)
 
-### Wheel and Motor Pulleys
+### Wheel and Motor Pulleys, Drive Belt
 
-Next is the wheel pulley. This is the gear-shaped object that secured by screws to the spokes of the board's wheels.
+Next we'll focus on the pulleys. These are the gear-shaped objects that connect the motor to the wheels. The wheel pulley is secured with screws to the spokes of the board's wheels, and the motor pulley attaches straight onto the motor. Pulleys come in different shapes, sizes, and teeth count.
+
+So what type of pulleys should we buy? The wheel diameter and motor kV rating, parts we've previously discussed, will help a lot with choosing the right pulleys. What we need to find now is the **gearing reduction ratio**, which is **speed of driven/speed of driver**, in our case the wheel and the motor (attached to the wheel and motor pulleys respectively). Additionally, we want to ensure we have good **torque** transfer between the motor and the wheels.
+
+To do so, we have to consider several variables. The first would be the number of teeth engaged with the belt at any given time. This is called the number of **teeth-in-mesh**. In order to ensure minimal loss between the motor and the wheel, we want to ensure we have at least _6_ teeth or more in mesh at any given time (per pulley).
 
 
-To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this.
+
+To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
 
 ### Making your own parts
 
