@@ -151,11 +151,19 @@ Next up is the motor. You might've seen the terms "brushed" and "brushless" moto
 Here's an image to help understand Brushed vs Brushless motors:
 ![brushed/brushless motor](http://www.thinkrc.com/faq/images/brushed-brushless.jpg)
 
-For the purposes of our motorized board, we'll want to stick to a ***brushless motor*** with a motor kV rating of 245kV, which is pretty standard for motorized boards. The brushless motor will be more reliable due to its frictionless drive.
+For the purposes of our motorized board, we'll want to stick to a ***brushless motor***, which is pretty standard for motorized boards. The brushless motor will be more reliable due to its frictionless drive.
+
+What kV rating should a motor have? First, a motor's kV rating is RPM per volt. Basically, if you multiply a motor's kV rating by a battery's voltage, you'll get the RPM. With a higher kV rating, you'll get less torque but a higher top speed, and with a lower kV rating, you'll get more torque but a lower top speed. Stick with a motor in between 180kV-270kV.
 
 ![motor](https://sep.yimg.com/ay/yhst-62196343123315/tacon-big-foot-160-brushless-out-runner-motor-for-airplane-245kv-8.gif)
 
-You can get this motor here for $75: [Brushless 245kV Motor](https://www.hobbypartz.com/96m608-bigfoot160-5335-245kv.html)
+Here are some motors, around $80: 
+
+[Brushless 245kV Motor](https://www.hobbypartz.com/96m608-bigfoot160-5335-245kv.html)
+
+[Brushless 190kV Motor w/Pulley](https://flipsky.net/products/copy-of-bldc-belt-motor-6374-190kv-3250w-for-electric-skateboard?variant=29546115006524)
+
+[Brushless 200kV Motor](https://flipsky.net/products/motor-h5045?variant=21870270840892)
 
 ### Wheel and Motor Pulleys, Drive Belt
 
