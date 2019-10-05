@@ -171,11 +171,15 @@ Next we'll focus on the pulleys. These are the gear-shaped objects that connect 
 
 So what type of pulleys should we buy? The wheel diameter and motor kV rating, parts we've previously discussed, will help a lot with choosing the right pulleys. What we need to find now is the **gearing reduction ratio**, which is **speed of driven/speed of driver**, in our case the wheel and the motor (attached to the wheel and motor pulleys respectively). Additionally, we want to ensure we have good **torque** transfer between the motor and the wheels.
 
-To do so, we have to consider several variables. The first would be the number of teeth engaged with the belt at any given time. This is called the number of **teeth-in-mesh**. In order to ensure minimal loss between the motor and the wheel, we want to ensure we have at least _6_ teeth or more in mesh at any given time (per pulley).
+To do so, we have to consider several variables. First off, be aware that there are different _widths_ of pulleys and pulley belts, ranging typically from 5mm-50mm. The wider the pulleys/belts are, the less likely they will be to slip or disconnect from each other. For the purposes of the motorized board, we want to get pulleys and belts with a width between 12mm-17mm. 17mm is preferable, but if there isn't enough space under your board then 12mm works as well.
+
+Next would be the number of teeth engaged with the belt at any given time. This is called the number of **teeth-in-mesh**. In order to ensure minimal loss between the motor and the wheel, we want to ensure we have at least _6_ teeth or more in mesh at any given time (per pulley). This would mean we need at least 13 teeth on the motor pulley and 36 teeth on the wheel pulley. We can calculate the **gearing reduction ratio** from the teeth ratio of the motor and wheel pulleys - just take the teeth count on the larger pulley and divide by the teeth count on the smaller pulley. For example, if we had 12 teeth on the motor pulley and 36 teeth on the wheel pulley, our gearing reduction ratio would be 36:12 = 3:1 ratio. This means that the motor pulley makes 3 full rotations for each full rotation on the wheel pulley.
+
+You can probably tell now that decreasing the gearing reduction ratio will increase the top speed, as there will be more turns of the wheel pulley per turn on the motor pulley, but this will lower the torque transfer as the motor needs to work harder. Increasing the gearing reduction ratio will increase torque transfer at the cost of top speed. Play around with different motor (13-17t) and wheel (32-40t) sizes and see what works best. 
 
 
 
-To mount the wheels and wheel gear(pulley?), it's likely you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
+To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
 
 ### Making your own parts
 
