@@ -59,11 +59,13 @@ As seen in the picture at the top, trucks are the parts of the board that connec
 
 The bottom part of the truck is called the baseplate, and attaches directly to the deck. Above it is the (T-shaped) hanger, which the axle runs through. Between the baseplate and hanger, there are polyurethane bushings that cushion the turning of the skateboard. All of these parts are in place by the kingpin nut. Finally, the pivot (not shown, behind hanger on baseplate) directs the turning of the hanger.
 
-There are two types of skateboard trucks - the reverse kingpin, and regular kingpin trucks. Longboards typically use reverse kingpin trucks for more stability and control, so I'd personally get those, but the choice is up to you. 
+There are two types of skateboard trucks - the reverse kingpin, and regular kingpin trucks. Longboards typically use reverse kingpin trucks for more stability and control, so I'd personally get those, but the choice is up to you.
 
 ![](https://www.warehouseskateboards.com/images/help/longboard-trucks-reverse-kingpin.jpg) ![](https://www.warehouseskateboards.com/images/help/longboard-trucks-traditional-kingpin.jpg)
 
-Standard longboard trucks range from 150mm to 180mm, but for the purposes of a motorized board 218mm trucks are also an option. The 180mm trucks will alow for **easier handling and speed**, but the 218mm trucks are **more stable and allow more space for motor and electrical components at the cost of handling**. I'm leaning towards the 218mm trucks, but again, it's your decision.
+Standard longboard trucks range from 150mm to 180mm, but for the purposes of a motorized board 218mm trucks are also an option. The 180mm trucks will alow for **easier handling and speed**, but the 218mm trucks are **more stable and allow more space for motor and electrical components at the cost of handling**. 
+
+Be aware that there are two main brands of longboard trucks: Paris trucks, which have round hangers, and Caliber II trucks, which have rectangular hangers. The difference will come into play when [choosing your motor mount](#motor-and-motor-mount), so keep this in mind when purchasing trucks.
 
 You can get skateboard trucks online at around $30 at these links:
 
@@ -108,7 +110,7 @@ Like the other parts, wheel choice is personal preference. We'll have multiple s
 Now that we have the basic board, it's time to motorize it! Turning your board into a motorized board requires three big components:
 1. The Drive Train
 2. The ESC (Electric Speed Controller) / Remote
-3. The Batteries
+3. The Batteries / BMS and accessories
 
 Here's a schematic of all the parts that go into motorizing your board.
 ![schematic](https://www.electric-skateboard.builders/uploads/db1493/original/3X/9/7/97991bdeee5662e34fefab783cb00e0242044401.jpg)
@@ -135,12 +137,13 @@ We'll start with the motor mounting plate, which looks like this:
 
 <img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/2X/7/7b546f571d194caeee4c9e3f940e9dfa186bb9ce_2_1250x1000.JPG" alt="motor mount" img width="400" height="300">
 
-The motor mount is the backbone of the electronic components. The disjointed right side of the motor mount is where you attach the mount to the axles of the trucks. They're secured tight with screws. The left side is where the motor is secured.
-All the motor mounting plates I've seen have been made out of aluminum, since it's light and strong. You can buy a good one here for cheap:
+The motor mount is the backbone of the electronic components. The disjointed right side of the motor mount is where you attach the mount to the hanger/axles of the trucks. They're secured tight with screws. The left side is where the motor is secured. All the motor mounting plates I've seen have been made out of aluminum, since it's light and strong. I talked earlier about two brands of trucks - again, Paris (round) and Caliber II (rectangular) trucks. **Absolutely make sure** that you choose a motor mount that is compatible with your trucks! You want to see if the truck attaching side is round or rectangular.
 
-[HobbyKing Motor Mount](https://hobbyking.com/en_us/motor-mount-5.html)
+You can buy a good motor mount here for cheap:
 
-or machine one yourself (see [Making Your Own Parts](#making-your-own-parts)). Try creating a better design!
+[HobbyKing Motor Mount](https://hobbyking.com/en_us/motor-mount-5.html) (Fits Caliber II Trucks)
+
+find mounts online, or machine one yourself (see [Making Your Own Parts](#making-your-own-parts)). Try creating a better design!
 
 Next up is the motor. You might've seen the terms "brushed" and "brushless" motors around. If you're not concerned with the differences, skip this section, but if you're curious, read on.
 
@@ -172,6 +175,14 @@ Next we'll focus on the pulleys. These are the gear-shaped objects that connect 
 So what type of pulleys should we buy? The wheel diameter and motor kV rating, parts we've previously discussed, will help a lot with choosing the right pulleys. What we need to find now is the **gearing reduction ratio**, which is **speed of driven/speed of driver**, in our case the wheel and the motor (attached to the wheel and motor pulleys respectively). Additionally, we want to ensure we have good **torque** transfer between the motor and the wheels.
 
 To do so, we have to consider several variables. First off, be aware that there are different _widths_ of pulleys and pulley belts, ranging typically from 5mm-50mm. The wider the pulleys/belts are, the less likely they will be to slip or disconnect from each other. For the purposes of the motorized board, we want to get pulleys and belts with a width between 12mm-17mm. 17mm is preferable, but if there isn't enough space under your board then 12mm works as well.
+
+Another variable is the **bore** of the motor pulley. This refers to the inner hole of the pulley that the motor shaft connects to. There are two shapes of bore: D-shaped, and round, and different inner diameters.  The most typical sizes that you'll run into will be 8mm or 10mm, but double check the shape and size of the pulleys you're purchasing to ensure they're compatible with your motor.
+
+Here's a 12mm round bore pulley vs a 12mm D-shaped bore pulley. Notice the holes in the teeth of the pulley - this is where the _key_ goes in, a piece that secures the pulley to the motor shaft to prevent slipping:
+
+<img src="https://cdn.shopify.com/s/files/1/3097/0936/products/Durable-HTD5M-5M-Aluminum-Timing-Belt-Drive-Pulley-15-Teeth-8mm-Hole-16mm-Width-Stepper-Motor_fff2ac2c-5488-402a-ae84-97ed64bf1611_480x480.jpg?v=1556564375" alt="round pulley" img width="310" height="310"> <img src="https://images-na.ssl-images-amazon.com/images/I/61KSUrYllyL._SL1100_.jpg" alt="D-shaped Pulley" img width="300" height="300">
+
+<sub> Image credits: Amazon, https://www.amazon.com/uxcell-Aluminum-8mmx7mm-D-Shape-Timing/dp/B0747H4J39. ElectricBoardSolutions, https://electricboardsolutions.com/products/12mm-wide-15t-motor-pulley.
 
 Next would be the number of teeth engaged with the belt at any given time. This is called the number of **teeth-in-mesh**. In order to ensure minimal loss between the motor and the wheel, we want to ensure we have at least _6_ teeth or more in mesh at any given time (per pulley). This would mean we need at least 13 teeth on the motor pulley and 36 teeth on the wheel pulley. We can calculate the **gearing reduction ratio** from the teeth ratio of the motor and wheel pulleys - just take the teeth count on the larger pulley and divide by the teeth count on the smaller pulley. For example, if we had 12 teeth on the motor pulley and 36 teeth on the wheel pulley, our gearing reduction ratio would be 36:12 = 3:1 ratio. This means that the motor pulley makes 3 full rotations for each full rotation on the wheel pulley.
 
