@@ -168,7 +168,7 @@ Here are some motors, around $80:
 
 [Brushless 200kV Motor](https://flipsky.net/products/motor-h5045?variant=21870270840892)
 
-### Wheel and Motor Pulleys, Drive Belt
+### Wheel and Motor Pulleys
 
 Next we'll focus on the pulleys. These are the gear-shaped objects that connect the motor to the wheels. The wheel pulley is secured with screws to the spokes of the board's wheels, and the motor pulley attaches straight onto the motor. Pulleys come in different shapes, sizes, and teeth count.
 
@@ -188,6 +188,18 @@ Next would be the number of teeth engaged with the belt at any given time. This 
 
 You can probably tell now that decreasing the gearing reduction ratio will increase the top speed, as there will be more turns of the wheel pulley per turn on the motor pulley, but this will lower the torque transfer as the motor needs to work harder. Increasing the gearing reduction ratio will increase torque transfer at the cost of top speed. Play around with different motor (13-17t) and wheel (32-40t) sizes and see what works best. 
 
+Whew! That was a lot of variables for the pulleys. Again, play around with all of the variables above to see what gives you the most comfortable configuration for your motorized board. Here are some pulleys that you can buy:
+
+[15T 16W Motor Pulley from eBay](https://www.ebay.com/itm/HTD-5M-15T-16W-5-6-6-35-8-10mm-Bore-Pitch-5mm-Timing-Belt-Drive-Pulley-15-Tooth-/252402866384)
+
+[15T 16W Motor Pulley from Flipsky](https://flipsky.net/collections/accessories/products/flipsky-d-shape-motor-pulley-electric-skateboard-aluminium-motor-gear)
+
+[Longboard Wheel Pulley (various sizes)](https://www.ebay.com/itm/Eletric-Skateboard-Longboard-Wheel-Pulley-For-5M-36T-40T-44T-ABEC-Flywheels-Part/273863867143?_trkparms=ispr%3D1&hash=item3fc38efb07:m:mfSVOdjGxd1P0Y0o7nfw6tg&enc=AQAEAAACQBPxNw%2BVj6nta7CKEs3N0qU998HX1NeuR8oovgN8i6Lv%2FWJ9SmsQovssTbeSfl4QmxdOEMKKvhVgcugj%2FB%2F7GHCpcacQ3oCxMU405BMOn4nWJMkmTJdAsqpU3lem2B02KuHd6Q2Z%2BglSjG4dWq2fgA0szySP7csqbGlQNtsPmwIyuOl4TBlBWChYRSfevfRNfl7q4mWaZBssX06qePGz7FG4A7b3VMl0%2BRm9%2FFX3nDggPQ%2Bvdg9KFfKILO%2B4gRHdJ0Ra%2FKbs5TJEmDI8I4eOLMzj4nD4MQoVF17Ei%2F%2BnIdz3TqciG2INGWNb9Zewjj3RJ1yPDof9x1aFVjUUAcUk1Yu4ZXTk%2FPf4pJXPzk4a2owaCkyLJahAzZXJvqAOktbQTayfAoS%2B5l%2BfJEULYXqswkR6YIMm1OjqrMEIol1Pj7MzY2%2BXyK091GGlkyWI%2FEF3iqSlm0vr0fYktX0bXNRRtlcmzc%2BR9Uuhr%2BLJhcoT%2F0p%2FuEur3u44%2FX4YaTleR0%2F2d1IF5HVrCXQPGC3mL5cUOICDuIXPZDn8pH%2Bf6lINGwh6AnCYw3vuCFtz9SEOBtvmk06zzFU9vkQRyye5NRrTiqHdHX%2FPbE0rBoRo9c8uHIryjej86KNo3bAUQ1DQE9WqKK0evduFKfK%2FTN8TzNxZc8As6qKoMGRnP%2FwpZXQOWXqueyUvxzeucTkY9Oe8VtB0kXWuuKGP6bipFwH%2B6zeC7SKGgonSQhYSCcqiOV5Y62%2B5x5bWBQAea%2FdZFyLwrSmVsg%3D%3D&checksum=273863867143b6104c74f3c544d182310540bc123137&enc=AQAEAAACQBPxNw%2BVj6nta7CKEs3N0qU998HX1NeuR8oovgN8i6Lv%2FWJ9SmsQovssTbeSfl4QmxdOEMKKvhVgcugj%2FB%2F7GHCpcacQ3oCxMU405BMOn4nWJMkmTJdAsqpU3lem2B02KuHd6Q2Z%2BglSjG4dWq2fgA0szySP7csqbGlQNtsPmwIyuOl4TBlBWChYRSfevfRNfl7q4mWaZBssX06qePGz7FG4A7b3VMl0%2BRm9%2FFX3nDggPQ%2Bvdg9KFfKILO%2B4gRHdJ0Ra%2FKbs5TJEmDI8I4eOLMzj4nD4MQoVF17Ei%2F%2BnIdz3TqciG2INGWNb9Zewjj3RJ1yPDof9x1aFVjUUAcUk1Yu4ZXTk%2FPf4pJXPzk4a2owaCkyLJahAzZXJvqAOktbQTayfAoS%2B5l%2BfJEULYXqswkR6YIMm1OjqrMEIol1Pj7MzY2%2BXyK091GGlkyWI%2FEF3iqSlm0vr0fYktX0bXNRRtlcmzc%2BR9Uuhr%2BLJhcoT%2F0p%2FuEur3u44%2FX4YaTleR0%2F2d1IF5HVrCXQPGC3mL5cUOICDuIXPZDn8pH%2Bf6lINGwh6AnCYw3vuCFtz9SEOBtvmk06zzFU9vkQRyye5NRrTiqHdHX%2FPbE0rBoRo9c8uHIryjej86KNo3bAUQ1DQE9WqKK0evduFKfK%2FTN8TzNxZc8As6qKoMGRnP%2FwpZXQOWXqueyUvxzeucTkY9Oe8VtB0kXWuuKGP6bipFwH%2B6zeC7SKGgonSQhYSCcqiOV5Y62%2B5x5bWBQAea%2FdZFyLwrSmVsg%3D%3D&checksum=273863867143b6104c74f3c544d182310540bc123137)
+
+Look around online for different motor and wheel pulleys - you can find them easily on eBay or Amazon.
+
+### Drive Belt
+The dirv
 
 
 To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
