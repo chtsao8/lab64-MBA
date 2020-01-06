@@ -100,6 +100,7 @@ Like the other parts, wheel choice is personal preference. We'll have multiple s
 
 ### Assembly:
 Assembly is fairly straightforward. If you need help, here are some useful links:
+
 How to assemble a top mount: https://www.thelongboardstore.com/blog/diy-how-to-assemble-a-top-mount/
 
 Video: https://www.youtube.com/watch?v=0sB8zbV0abg
