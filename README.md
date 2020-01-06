@@ -22,7 +22,8 @@ For code related questions, please post to the [issues tab](https://github.com/c
 Before diving into building your own motorized board, it is vital that you understand the workings of a normal skateboard. Simply put, a skateboard is a plank of wood with 4 wheels attached to it that a person rides using their feet to guide and accelerate.
 
 More accurately: Skateboards consist of three primary parts: the deck, the trucks, and the wheels.
-![A labeled skateboard](http://1.bp.blogspot.com/-JAhh_Z9r_fo/UklTPO3MlrI/AAAAAAAALNc/tp_7ca2i6_k/s640/img353.jpg)
+![A labeled skateboard](https://cdn.skatepro.com/upload/2019/03/skate_2513.jpg)
+<sub> Image credits: SkatePro, https://www.skatepro.uk/a535.htm
 
 ## The Deck
 Decks are the backbone of the board. Standard skateboard decks are between 28-33 inches. You may have heard of other types of boards too - Penny-boards are between 20-23 inches, Nickel-boards are around 27 inches, and longboards are usually over 36 inches up to 60 inches long. Longboards are typically used for higher speed and cruising, so they're the most reasonable choice for building your first motorized board. 
