@@ -98,6 +98,11 @@ Alternatively, you can get _all terrain_ longboard wheels. If you're planning on
 
 Like the other parts, wheel choice is personal preference. We'll have multiple styles of wheels (street, all-terrain, diff. sizes) available in lab64 for you to test out before you decide on a purchase.
 
+### Assembly:
+Assembly is fairly straightforward. If you need help, here are some useful links:
+How to assemble a top mount: https://www.thelongboardstore.com/blog/diy-how-to-assemble-a-top-mount/
+
+Video: https://www.youtube.com/watch?v=0sB8zbV0abg
 
 ***And that's all for building your very own (long/other)board!*** When you're comfortable with your ride, you can move on to **Level 1** and motorize your board.
 \
