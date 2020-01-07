@@ -206,8 +206,14 @@ Whew! That was a lot of variables for the pulleys. Again, play around with all o
 Look around online for different motor and wheel pulleys - you can find them easily on eBay or Amazon.
 
 ### Drive Belt
-The dirv
+The drive belt connects the motor pulley to the wheel pulley. Choosing a drive belt is partially dependent on your motor mount's length, but since most motor mounts are approximately around 8 inches from the center of the trucks to the motor's axle, the typical drive belts for a motorized board are all around the same size. Thus, you just want to select a belt that can be reasonably tensioned between the two pulleys. The most standard drive belt I've found online and used by others is the HTD 255-5M timing belt. 
 
+You can get one here:
+
+[HTD 255-5M Timing Belt 51 Teeth](https://vbeltoutlet.com/htd-255-5m-timing-belt-51-teeth.html/)
+
+### Assembly
+Assembly of the drive chain may be a bit tricky if your parts don't fit together perfectly, so make sure you order parts or make parts that are compatable with each other. 
 
 To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
 
