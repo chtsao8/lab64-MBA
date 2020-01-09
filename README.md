@@ -213,7 +213,11 @@ You can get one here:
 [HTD 255-5M Timing Belt 51 Teeth](https://vbeltoutlet.com/htd-255-5m-timing-belt-51-teeth.html/)
 
 ### Assembly
-Assembly of the drive chain may be a bit tricky if your parts don't fit together perfectly, so make sure you order parts or make parts that are compatable with each other. 
+Assembly of the drive chain may be a bit tricky if your parts don't fit together perfectly, so make sure you order parts or make parts that are compatible with each other, or else you'll be doing a lot of physical labor to get your parts to fit.
+
+
+
+
 
 To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
 
