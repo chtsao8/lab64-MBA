@@ -135,7 +135,7 @@ All seen here:
 
 And combined here:
 
-<img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/3X/1/0/108e0e3a251866778b102db98139fc0e94ad714b_2_1380x776.jpg" img width="690" height="388">
+<img src="documentation/Documentation Photos/IMG_2766.HEIC" img width="690" height="388">
 
 This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
 
