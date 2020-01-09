@@ -105,6 +105,8 @@ How to assemble a top mount: https://www.thelongboardstore.com/blog/diy-how-to-a
 
 Video: https://www.youtube.com/watch?v=0sB8zbV0abg
 
+Additionally, check out my notes on my first prototype build in this git repository to help guide you through your build.
+
 ***And that's all for building your very own (long/other)board!*** When you're comfortable with your ride, you can move on to **Level 1** and motorize your board.
 \
 \
@@ -135,7 +137,7 @@ All seen here:
 
 And combined here:
 
-![drive train completed](documentation/photos/IMG_2766.jpg)
+<img src="documentation/photos/IMG_2766.jpg" alt="motor mount" img width="300" height="300">
 
 This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
 
@@ -210,6 +212,8 @@ Look around online for different motor and wheel pulleys - you can find them eas
 ### Drive Belt
 The drive belt connects the motor pulley to the wheel pulley. Choosing a drive belt is partially dependent on your motor mount's length, but since most motor mounts are approximately around 8 inches from the center of the trucks to the motor's axle, the typical drive belts for a motorized board are all around the same size. Thus, you just want to select a belt that can be reasonably tensioned between the two pulleys. The most standard drive belt I've found online and used by others is the HTD 255-5M timing belt. 
 
+<img src="documentation/photos/IMG_2741.jpg" alt="motor mount" img width="450" height="300">
+
 You can get one here:
 
 [HTD 255-5M Timing Belt 51 Teeth](https://vbeltoutlet.com/htd-255-5m-timing-belt-51-teeth.html/)
@@ -217,9 +221,7 @@ You can get one here:
 ### Assembly
 Assembly of the drive chain may be a bit tricky if your parts don't fit together perfectly, so make sure you order parts or make parts that are compatible with each other, or else you'll be doing a lot of physical labor to get your parts to fit.
 
-
-
-
+Again, take a look at my notes for the prototype board build in this github repository for assembly guidance.
 
 To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
 
