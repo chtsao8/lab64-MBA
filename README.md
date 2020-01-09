@@ -135,7 +135,7 @@ All seen here:
 
 And combined here:
 
-<img src="documentation/Documentation\ Photos/60004403131__B7F55B15-6A28-4D67-93F7-8797F691FD5C.JPG" img width="690" height="388">
+<img src="documentation/photos/60004403131__B7F55B15-6A28-4D67-93F7-8797F691FD5C.JPG" img width="690" height="388">
 
 This section will be focused on the math and engineering behind making the **drive train** for the motorized board. 
 
