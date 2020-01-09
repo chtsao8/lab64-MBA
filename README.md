@@ -142,7 +142,8 @@ This section will be focused on the math and engineering behind making the **dri
 ### Motor and Motor Mount
 We'll start with the motor mounting plate, which looks like this:
 
-<img src="https://www.electric-skateboard.builders/uploads/db1493/optimized/2X/7/7b546f571d194caeee4c9e3f940e9dfa186bb9ce_2_1250x1000.JPG" alt="motor mount" img width="400" height="300">
+<img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/1/image/660x415/17f82f742ffe127f42dca9de82fb58b1/1/2/125531.jpg" alt="motor mount" img width="400" height="300">
+<sub> Image credits: HobbyKing, https://hobbyking.com/en_us/motor-mount-5.html
 
 The motor mount is the backbone of the electronic components. The disjointed right side of the motor mount is where you attach the mount to the hanger/axles of the trucks. They're secured tight with screws. The left side is where the motor is secured. All the motor mounting plates I've seen have been made out of aluminum, since it's light and strong. I talked earlier about two brands of trucks - again, Paris (round) and Caliber II (rectangular) trucks. **Absolutely make sure** that you choose a motor mount that is compatible with your trucks! You want to see if the truck attaching side is round or rectangular.
 
