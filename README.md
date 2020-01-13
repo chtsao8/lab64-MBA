@@ -223,12 +223,11 @@ Assembly of the drive chain may be a bit tricky if your parts don't fit together
 
 Again, take a look at my notes for the prototype board build in this github repository for assembly guidance.
 
-To mount the wheels and wheel pulley, it's possible you'll have to cut of a section of your trucks to expose more axle. If you're lucky, you won't have to do this
-
 ### Making your own parts
-
+This section is still under construction. Please check again later!
 
 ## The ESC/Remote
+ESC stands for Electronic Speed Controller. This is essentially the "brains" of your motorized board, and controls the 
 50 amps
 
 VESC
@@ -238,10 +237,11 @@ VESC
 
 ## The Batteries
 
-![want this](https://i.redd.it/3td44p8qo3w11.jpg)
+
 
 # Level 2: Hub-driven Motorized Board
 
 # Level 3: Advanced Motorized Board
+![want this](https://i.redd.it/3td44p8qo3w11.jpg)
 
 # Level 4: Autonomous Motorized Board
